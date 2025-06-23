@@ -4,9 +4,7 @@ import pandas as pd
 from io import BytesIO
 from flask import send_file
 import xlsxwriter
-from datetime import timedelta
 
-app.permanent_session_lifetime = timedelta(hours=1)
 app = Flask(__name__)
 app.secret_key = "your_secret_key"
 
