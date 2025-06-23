@@ -1,17 +1,12 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 21 16:44:00 2025
-
-@author: VivekKumar.Lal
-"""
-
 from flask import Flask, render_template, request, redirect, url_for, session, jsonify
 import os, json
 import pandas as pd
 from io import BytesIO
 from flask import send_file
 import xlsxwriter
+from datetime import timedelta
 
+app.permanent_session_lifetime = timedelta(hours=1)
 app = Flask(__name__)
 app.secret_key = "your_secret_key"
 
@@ -50,6 +45,7 @@ def login():
         password = request.form["password"]
         user = USERS.get(email)
         if user and user["password"] == password:
+            session.permanent = True  # Auto-logout after inactivity period
             session["user"] = email
             session["role"] = user["role"]
             return redirect(url_for("dashboard"))
