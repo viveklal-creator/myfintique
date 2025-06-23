@@ -1,0 +1,1337 @@
+{
+  "Variance": {
+    "5030001 Battery swapping and support costs : Swap Charges Partner Cost": {
+      "remark": "Vivek 4",
+      "manager_remark": "Anubhav"
+    },
+    "5060001 Other Expenses : Gps Tracking Subscription": {
+      "remark": "hii",
+      "manager_remark": ""
+    },
+    "5060082 Other Expenses : Electrical Appliance": {
+      "remark": "jii5",
+      "manager_remark": ""
+    },
+    "5060083 Other Expenses : Wiring Harness": {
+      "remark": "kii5",
+      "manager_remark": ""
+    },
+    "5010101 Employee benefit expense : Salaries, bonus and other allowances : USP-Leaves": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5010102 Employee benefit expense : Salaries, bonus and other allowances : Car Hire": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5010103 Employee benefit expense : Salaries, bonus and other allowances : USP- Performance Inentive": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5010104 Employee benefit expense : Salaries, bonus and other allowances : USP - Salary": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5010105 Employee benefit expense : Salaries, bonus and other allowances : Employee Sodexo Benefit": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5010106 Employee benefit expense : Salaries, bonus and other allowances : USP Salary-Gratuity": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5010107 Employee benefit expense : Salaries, bonus and other allowances : Staff welfare expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5010201 Employee benefit expense : Contribution to provident and other funds : Employee NPS": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5010202 Employee benefit expense : Contribution to provident and other funds : EPF Employer": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5010203 Employee benefit expense : Contribution to provident and other funds : LWF": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5010401 Employee benefit expense : Share based payment expense : ESOP Cost": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5030002 Battery swapping and support costs : Partner Reimbursement": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5040001 Finance Costs : Bank Charges": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5040009 Finance Costs : Ind AS - Interest Cost": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5050001 Depreciation and Amortisation : Depreciation on PPE": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5050002 Depreciation and Amortisation : Amortisation on Intangibles": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060002 Other Expenses : Hardware Device & Cloud Software Subscription": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060007 Other Expenses : Manpower Supply Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060008 Other Expenses : Referral Fees- Driver's": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060009 Other Expenses : Referral Fees-Partner": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060012 Other Expenses : Business Promotion Expens": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060013 Other Expenses : Marketing Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060014 Other Expenses : Staff Welfare - Marketing Campaign": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060015 Other Expenses : Rent": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060016 Other Expenses : Rent (A.C)": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060017 Other Expenses : Rent (CCD Machine)": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060021 Other Expenses : Rent (Head Office)": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060024 Other Expenses : Rent (Printer)": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060025 Other Expenses : Audit Fees": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060027 Other Expenses : Commission Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060028 Other Expenses : Conveyance Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060029 Other Expenses : Courier Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060031 Other Expenses : Festival Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060032 Other Expenses : Domain Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060033 Other Expenses : Electricity Expense ( Indirect Cost )": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060035 Other Expenses : Fire Extinguisher": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060036 Other Expenses : Freight Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060037 Other Expenses : Google Cloud": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060038 Other Expenses : Ground Management Charges": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060041 Other Expenses : Hotel Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060042 Other Expenses : Housekeeping Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060043 Other Expenses : Insurance Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060044 Other Expenses : Internet Exps ( Indirect )": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060045 Other Expenses : Leased Battery-Reinstated": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060046 Other Expenses : Legal Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060047 Other Expenses : Location Maintanance Service Fee": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060048 Other Expenses : Gain & Loss on FA": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060052 Other Expenses : Office Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060053 Other Expenses : Partner Recovery-Provision": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060054 Other Expenses : Printing & Stationary Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060055 Other Expenses : Professional Fees": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060058 Other Expenses : Recruitment Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060059 Other Expenses : Repair & Maintenance Expense (Office)": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060060 Other Expenses : Repair/Upgradation Charges-Charger": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060064 Other Expenses : Software Subscription": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060065 Other Expenses : Stamp Duty": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060066 Other Expenses : Stamp Paper Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060067 Other Expenses : Telephone & Communication Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060068 Other Expenses : Testing Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060069 Other Expenses : Tour and traveling": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060070 Other Expenses : Transportation Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060071 Other Expenses : Water Expesne": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060072 Other Expenses : Write Off": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060074 Other Expenses : Repair and maintenance - batteries": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060078 Other Expenses : Incentives [Points-Driver]": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060079 Other Expenses : Incentives [Points-Partner]": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060080 Other Expenses : Battery Picker Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060081 Other Expenses : Calling Support Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060084 Other Expenses : IOT Device Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060085 Other Expenses : Event Mgt.Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060086 Other Expenses : DSK Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060090 Other Expenses : Partner Income Protection Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060091 Other Expenses : Diesel generator expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060094 Other Expenses : Survey charges": {
+      "remark": "",
+      "manager_remark": ""
+    }
+  },
+  "May'25": {
+    "5030001 Battery swapping and support costs : Swap Charges Partner Cost": {
+      "remark": "Vivek 4",
+      "manager_remark": "Anubhav1"
+    },
+    "5060001 Other Expenses : Gps Tracking Subscription": {
+      "remark": "hii",
+      "manager_remark": "hii"
+    },
+    "5060082 Other Expenses : Electrical Appliance": {
+      "remark": "jbksbdkd",
+      "manager_remark": "hii"
+    },
+    "5060083 Other Expenses : Wiring Harness": {
+      "remark": "afafdqedq",
+      "manager_remark": "hiii"
+    },
+    "5010101 Employee benefit expense : Salaries, bonus and other allowances : USP-Leaves": {
+      "remark": "Hii",
+      "manager_remark": "hiii"
+    },
+    "5010102 Employee benefit expense : Salaries, bonus and other allowances : Car Hire": {
+      "remark": "Hiii",
+      "manager_remark": "hiii"
+    },
+    "5010103 Employee benefit expense : Salaries, bonus and other allowances : USP- Performance Inentive": {
+      "remark": "Hii",
+      "manager_remark": "hiii"
+    },
+    "5010104 Employee benefit expense : Salaries, bonus and other allowances : USP - Salary": {
+      "remark": "Hiii",
+      "manager_remark": "Hii"
+    },
+    "5010105 Employee benefit expense : Salaries, bonus and other allowances : Employee Sodexo Benefit": {
+      "remark": "Hii",
+      "manager_remark": "Hii"
+    },
+    "5010106 Employee benefit expense : Salaries, bonus and other allowances : USP Salary-Gratuity": {
+      "remark": "gjgjgj",
+      "manager_remark": "bjhjvj"
+    },
+    "5010107 Employee benefit expense : Salaries, bonus and other allowances : Staff welfare expense": {
+      "remark": "bkbkb",
+      "manager_remark": "hchch"
+    },
+    "5010201 Employee benefit expense : Contribution to provident and other funds : Employee NPS": {
+      "remark": "OkOK",
+      "manager_remark": ""
+    },
+    "5010202 Employee benefit expense : Contribution to provident and other funds : EPF Employer": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5010203 Employee benefit expense : Contribution to provident and other funds : LWF": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5010401 Employee benefit expense : Share based payment expense : ESOP Cost": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5030002 Battery swapping and support costs : Partner Reimbursement": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5040001 Finance Costs : Bank Charges": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5040009 Finance Costs : Ind AS - Interest Cost": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5050001 Depreciation and Amortisation : Depreciation on PPE": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5050002 Depreciation and Amortisation : Amortisation on Intangibles": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060002 Other Expenses : Hardware Device & Cloud Software Subscription": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060007 Other Expenses : Manpower Supply Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060008 Other Expenses : Referral Fees- Driver's": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060009 Other Expenses : Referral Fees-Partner": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060012 Other Expenses : Business Promotion Expens": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060013 Other Expenses : Marketing Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060014 Other Expenses : Staff Welfare - Marketing Campaign": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060015 Other Expenses : Rent": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060016 Other Expenses : Rent (A.C)": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060017 Other Expenses : Rent (CCD Machine)": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060021 Other Expenses : Rent (Head Office)": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060024 Other Expenses : Rent (Printer)": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060025 Other Expenses : Audit Fees": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060027 Other Expenses : Commission Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060028 Other Expenses : Conveyance Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060029 Other Expenses : Courier Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060031 Other Expenses : Festival Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060032 Other Expenses : Domain Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060033 Other Expenses : Electricity Expense ( Indirect Cost )": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060035 Other Expenses : Fire Extinguisher": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060036 Other Expenses : Freight Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060037 Other Expenses : Google Cloud": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060038 Other Expenses : Ground Management Charges": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060041 Other Expenses : Hotel Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060042 Other Expenses : Housekeeping Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060043 Other Expenses : Insurance Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060044 Other Expenses : Internet Exps ( Indirect )": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060045 Other Expenses : Leased Battery-Reinstated": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060046 Other Expenses : Legal Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060047 Other Expenses : Location Maintanance Service Fee": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060048 Other Expenses : Gain & Loss on FA": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060052 Other Expenses : Office Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060053 Other Expenses : Partner Recovery-Provision": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060054 Other Expenses : Printing & Stationary Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060055 Other Expenses : Professional Fees": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060058 Other Expenses : Recruitment Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060059 Other Expenses : Repair & Maintenance Expense (Office)": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060060 Other Expenses : Repair/Upgradation Charges-Charger": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060064 Other Expenses : Software Subscription": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060065 Other Expenses : Stamp Duty": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060066 Other Expenses : Stamp Paper Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060067 Other Expenses : Telephone & Communication Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060068 Other Expenses : Testing Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060069 Other Expenses : Tour and traveling": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060070 Other Expenses : Transportation Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060071 Other Expenses : Water Expesne": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060072 Other Expenses : Write Off": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060074 Other Expenses : Repair and maintenance - batteries": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060078 Other Expenses : Incentives [Points-Driver]": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060079 Other Expenses : Incentives [Points-Partner]": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060080 Other Expenses : Battery Picker Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060081 Other Expenses : Calling Support Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060084 Other Expenses : IOT Device Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060085 Other Expenses : Event Mgt.Expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060086 Other Expenses : DSK Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060090 Other Expenses : Partner Income Protection Expense": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060091 Other Expenses : Diesel generator expenses": {
+      "remark": "",
+      "manager_remark": ""
+    },
+    "5060094 Other Expenses : Survey charges": {
+      "remark": "",
+      "manager_remark": ""
+    }
+  },
+  "April'25": {
+    "Direct : 5030001 Battery swapping and support costs : Swap Charges Partner Cost": {
+      "remark": "Vivek1"
+    },
+    "Direct : 5060001 Other Expenses : Gps Tracking Subscription": {
+      "remark": "Vivek2"
+    },
+    "Direct : 5060082 Other Expenses : Electrical Appliance": {
+      "remark": "Vivek3"
+    },
+    "Direct : 5060083 Other Expenses : Wiring Harness": {
+      "remark": ""
+    },
+    "Indirect : 5010101 Employee benefit expense : Salaries, bonus and other allowances : USP-Leaves": {
+      "remark": ""
+    },
+    "Indirect : 5010102 Employee benefit expense : Salaries, bonus and other allowances : Car Hire": {
+      "remark": ""
+    },
+    "Indirect : 5010103 Employee benefit expense : Salaries, bonus and other allowances : USP- Performance Inentive": {
+      "remark": ""
+    },
+    "Indirect : 5010104 Employee benefit expense : Salaries, bonus and other allowances : USP - Salary": {
+      "remark": ""
+    },
+    "Indirect : 5010105 Employee benefit expense : Salaries, bonus and other allowances : Employee Sodexo Benefit": {
+      "remark": ""
+    },
+    "Indirect : 5010106 Employee benefit expense : Salaries, bonus and other allowances : USP Salary-Gratuity": {
+      "remark": ""
+    },
+    "Indirect : 5010107 Employee benefit expense : Salaries, bonus and other allowances : Staff welfare expense": {
+      "remark": ""
+    },
+    "Indirect : 5010201 Employee benefit expense : Contribution to provident and other funds : Employee NPS": {
+      "remark": ""
+    },
+    "Indirect : 5010202 Employee benefit expense : Contribution to provident and other funds : EPF Employer": {
+      "remark": ""
+    },
+    "Indirect : 5010203 Employee benefit expense : Contribution to provident and other funds : LWF": {
+      "remark": ""
+    },
+    "Indirect : 5010401 Employee benefit expense : Share based payment expense : ESOP Cost": {
+      "remark": ""
+    },
+    "Indirect : 5030002 Battery swapping and support costs : Partner Reimbursement": {
+      "remark": ""
+    },
+    "Indirect : 5040001 Finance Costs : Bank Charges": {
+      "remark": ""
+    },
+    "Indirect : 5040009 Finance Costs : Ind AS - Interest Cost": {
+      "remark": ""
+    },
+    "Indirect : 5050001 Depreciation and Amortisation : Depreciation on PPE": {
+      "remark": ""
+    },
+    "Indirect : 5050002 Depreciation and Amortisation : Amortisation on Intangibles": {
+      "remark": ""
+    },
+    "Indirect : 5060002 Other Expenses : Hardware Device & Cloud Software Subscription": {
+      "remark": ""
+    },
+    "Indirect : 5060007 Other Expenses : Manpower Supply Expenses": {
+      "remark": ""
+    },
+    "Indirect : 5060008 Other Expenses : Referral Fees- Driver's": {
+      "remark": ""
+    },
+    "Indirect : 5060009 Other Expenses : Referral Fees-Partner": {
+      "remark": ""
+    },
+    "Indirect : 5060012 Other Expenses : Business Promotion Expens": {
+      "remark": ""
+    },
+    "Indirect : 5060013 Other Expenses : Marketing Expenses": {
+      "remark": ""
+    },
+    "Indirect : 5060014 Other Expenses : Staff Welfare - Marketing Campaign": {
+      "remark": ""
+    },
+    "Indirect : 5060015 Other Expenses : Rent": {
+      "remark": ""
+    },
+    "Indirect : 5060016 Other Expenses : Rent (A.C)": {
+      "remark": ""
+    },
+    "Indirect : 5060017 Other Expenses : Rent (CCD Machine)": {
+      "remark": ""
+    },
+    "Indirect : 5060021 Other Expenses : Rent (Head Office)": {
+      "remark": ""
+    },
+    "Indirect : 5060024 Other Expenses : Rent (Printer)": {
+      "remark": ""
+    },
+    "Indirect : 5060025 Other Expenses : Audit Fees": {
+      "remark": ""
+    },
+    "Indirect : 5060027 Other Expenses : Commission Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060028 Other Expenses : Conveyance Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060029 Other Expenses : Courier Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060031 Other Expenses : Festival Expenses": {
+      "remark": ""
+    },
+    "Indirect : 5060032 Other Expenses : Domain Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060033 Other Expenses : Electricity Expense ( Indirect Cost )": {
+      "remark": ""
+    },
+    "Indirect : 5060035 Other Expenses : Fire Extinguisher": {
+      "remark": ""
+    },
+    "Indirect : 5060036 Other Expenses : Freight Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060037 Other Expenses : Google Cloud": {
+      "remark": ""
+    },
+    "Indirect : 5060038 Other Expenses : Ground Management Charges": {
+      "remark": ""
+    },
+    "Indirect : 5060041 Other Expenses : Hotel Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060042 Other Expenses : Housekeeping Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060043 Other Expenses : Insurance Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060044 Other Expenses : Internet Exps ( Indirect )": {
+      "remark": ""
+    },
+    "Indirect : 5060045 Other Expenses : Leased Battery-Reinstated": {
+      "remark": ""
+    },
+    "Indirect : 5060046 Other Expenses : Legal Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060047 Other Expenses : Location Maintanance Service Fee": {
+      "remark": ""
+    },
+    "Indirect : 5060048 Other Expenses : Gain & Loss on FA": {
+      "remark": ""
+    },
+    "Indirect : 5060052 Other Expenses : Office Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060053 Other Expenses : Partner Recovery-Provision": {
+      "remark": ""
+    },
+    "Indirect : 5060054 Other Expenses : Printing & Stationary Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060055 Other Expenses : Professional Fees": {
+      "remark": ""
+    },
+    "Indirect : 5060058 Other Expenses : Recruitment Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060059 Other Expenses : Repair & Maintenance Expense (Office)": {
+      "remark": ""
+    },
+    "Indirect : 5060060 Other Expenses : Repair/Upgradation Charges-Charger": {
+      "remark": ""
+    },
+    "Indirect : 5060064 Other Expenses : Software Subscription": {
+      "remark": ""
+    },
+    "Indirect : 5060065 Other Expenses : Stamp Duty": {
+      "remark": ""
+    },
+    "Indirect : 5060066 Other Expenses : Stamp Paper Expenses": {
+      "remark": ""
+    },
+    "Indirect : 5060067 Other Expenses : Telephone & Communication Expenses": {
+      "remark": ""
+    },
+    "Indirect : 5060068 Other Expenses : Testing Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060069 Other Expenses : Tour and traveling": {
+      "remark": ""
+    },
+    "Indirect : 5060070 Other Expenses : Transportation Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060071 Other Expenses : Water Expesne": {
+      "remark": ""
+    },
+    "Indirect : 5060072 Other Expenses : Write Off": {
+      "remark": ""
+    },
+    "Indirect : 5060074 Other Expenses : Repair and maintenance - batteries": {
+      "remark": ""
+    },
+    "Indirect : 5060078 Other Expenses : Incentives [Points-Driver]": {
+      "remark": ""
+    },
+    "Indirect : 5060079 Other Expenses : Incentives [Points-Partner]": {
+      "remark": ""
+    },
+    "Indirect : 5060080 Other Expenses : Battery Picker Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060081 Other Expenses : Calling Support Expenses": {
+      "remark": ""
+    },
+    "Indirect : 5060084 Other Expenses : IOT Device Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060085 Other Expenses : Event Mgt.Expenses": {
+      "remark": ""
+    },
+    "Indirect : 5060086 Other Expenses : DSK Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060090 Other Expenses : Partner Income Protection Expense": {
+      "remark": ""
+    },
+    "Indirect : 5060091 Other Expenses : Diesel generator expenses": {
+      "remark": ""
+    },
+    "Indirect : 5060094 Other Expenses : Survey charges": {
+      "remark": ""
+    },
+    "5030001 Battery swapping and support costs : Swap Charges Partner Cost": {
+      "remark": "Vivek 4"
+    },
+    "5060001 Other Expenses : Gps Tracking Subscription": {
+      "remark": "hii"
+    },
+    "5060082 Other Expenses : Electrical Appliance": {
+      "remark": "bkbhb"
+    },
+    "5060083 Other Expenses : Wiring Harness": {
+      "remark": ""
+    },
+    "5010101 Employee benefit expense : Salaries, bonus and other allowances : USP-Leaves": {
+      "remark": ""
+    },
+    "5010102 Employee benefit expense : Salaries, bonus and other allowances : Car Hire": {
+      "remark": ""
+    },
+    "5010103 Employee benefit expense : Salaries, bonus and other allowances : USP- Performance Inentive": {
+      "remark": ""
+    },
+    "5010104 Employee benefit expense : Salaries, bonus and other allowances : USP - Salary": {
+      "remark": ""
+    },
+    "5010105 Employee benefit expense : Salaries, bonus and other allowances : Employee Sodexo Benefit": {
+      "remark": ""
+    },
+    "5010106 Employee benefit expense : Salaries, bonus and other allowances : USP Salary-Gratuity": {
+      "remark": ""
+    },
+    "5010107 Employee benefit expense : Salaries, bonus and other allowances : Staff welfare expense": {
+      "remark": ""
+    },
+    "5010201 Employee benefit expense : Contribution to provident and other funds : Employee NPS": {
+      "remark": ""
+    },
+    "5010202 Employee benefit expense : Contribution to provident and other funds : EPF Employer": {
+      "remark": ""
+    },
+    "5010203 Employee benefit expense : Contribution to provident and other funds : LWF": {
+      "remark": ""
+    },
+    "5010401 Employee benefit expense : Share based payment expense : ESOP Cost": {
+      "remark": ""
+    },
+    "5030002 Battery swapping and support costs : Partner Reimbursement": {
+      "remark": ""
+    },
+    "5040001 Finance Costs : Bank Charges": {
+      "remark": ""
+    },
+    "5040009 Finance Costs : Ind AS - Interest Cost": {
+      "remark": ""
+    },
+    "5050001 Depreciation and Amortisation : Depreciation on PPE": {
+      "remark": ""
+    },
+    "5050002 Depreciation and Amortisation : Amortisation on Intangibles": {
+      "remark": ""
+    },
+    "5060002 Other Expenses : Hardware Device & Cloud Software Subscription": {
+      "remark": ""
+    },
+    "5060007 Other Expenses : Manpower Supply Expenses": {
+      "remark": ""
+    },
+    "5060008 Other Expenses : Referral Fees- Driver's": {
+      "remark": ""
+    },
+    "5060009 Other Expenses : Referral Fees-Partner": {
+      "remark": ""
+    },
+    "5060012 Other Expenses : Business Promotion Expens": {
+      "remark": ""
+    },
+    "5060013 Other Expenses : Marketing Expenses": {
+      "remark": ""
+    },
+    "5060014 Other Expenses : Staff Welfare - Marketing Campaign": {
+      "remark": ""
+    },
+    "5060015 Other Expenses : Rent": {
+      "remark": ""
+    },
+    "5060016 Other Expenses : Rent (A.C)": {
+      "remark": ""
+    },
+    "5060017 Other Expenses : Rent (CCD Machine)": {
+      "remark": ""
+    },
+    "5060021 Other Expenses : Rent (Head Office)": {
+      "remark": ""
+    },
+    "5060024 Other Expenses : Rent (Printer)": {
+      "remark": ""
+    },
+    "5060025 Other Expenses : Audit Fees": {
+      "remark": ""
+    },
+    "5060027 Other Expenses : Commission Expense": {
+      "remark": ""
+    },
+    "5060028 Other Expenses : Conveyance Expense": {
+      "remark": ""
+    },
+    "5060029 Other Expenses : Courier Expense": {
+      "remark": ""
+    },
+    "5060031 Other Expenses : Festival Expenses": {
+      "remark": ""
+    },
+    "5060032 Other Expenses : Domain Expense": {
+      "remark": ""
+    },
+    "5060033 Other Expenses : Electricity Expense ( Indirect Cost )": {
+      "remark": ""
+    },
+    "5060035 Other Expenses : Fire Extinguisher": {
+      "remark": ""
+    },
+    "5060036 Other Expenses : Freight Expense": {
+      "remark": ""
+    },
+    "5060037 Other Expenses : Google Cloud": {
+      "remark": ""
+    },
+    "5060038 Other Expenses : Ground Management Charges": {
+      "remark": ""
+    },
+    "5060041 Other Expenses : Hotel Expense": {
+      "remark": ""
+    },
+    "5060042 Other Expenses : Housekeeping Expense": {
+      "remark": ""
+    },
+    "5060043 Other Expenses : Insurance Expense": {
+      "remark": ""
+    },
+    "5060044 Other Expenses : Internet Exps ( Indirect )": {
+      "remark": ""
+    },
+    "5060045 Other Expenses : Leased Battery-Reinstated": {
+      "remark": ""
+    },
+    "5060046 Other Expenses : Legal Expense": {
+      "remark": ""
+    },
+    "5060047 Other Expenses : Location Maintanance Service Fee": {
+      "remark": ""
+    },
+    "5060048 Other Expenses : Gain & Loss on FA": {
+      "remark": ""
+    },
+    "5060052 Other Expenses : Office Expense": {
+      "remark": ""
+    },
+    "5060053 Other Expenses : Partner Recovery-Provision": {
+      "remark": ""
+    },
+    "5060054 Other Expenses : Printing & Stationary Expense": {
+      "remark": ""
+    },
+    "5060055 Other Expenses : Professional Fees": {
+      "remark": ""
+    },
+    "5060058 Other Expenses : Recruitment Expense": {
+      "remark": ""
+    },
+    "5060059 Other Expenses : Repair & Maintenance Expense (Office)": {
+      "remark": ""
+    },
+    "5060060 Other Expenses : Repair/Upgradation Charges-Charger": {
+      "remark": ""
+    },
+    "5060064 Other Expenses : Software Subscription": {
+      "remark": ""
+    },
+    "5060065 Other Expenses : Stamp Duty": {
+      "remark": ""
+    },
+    "5060066 Other Expenses : Stamp Paper Expenses": {
+      "remark": ""
+    },
+    "5060067 Other Expenses : Telephone & Communication Expenses": {
+      "remark": ""
+    },
+    "5060068 Other Expenses : Testing Expense": {
+      "remark": ""
+    },
+    "5060069 Other Expenses : Tour and traveling": {
+      "remark": ""
+    },
+    "5060070 Other Expenses : Transportation Expense": {
+      "remark": ""
+    },
+    "5060071 Other Expenses : Water Expesne": {
+      "remark": ""
+    },
+    "5060072 Other Expenses : Write Off": {
+      "remark": ""
+    },
+    "5060074 Other Expenses : Repair and maintenance - batteries": {
+      "remark": ""
+    },
+    "5060078 Other Expenses : Incentives [Points-Driver]": {
+      "remark": ""
+    },
+    "5060079 Other Expenses : Incentives [Points-Partner]": {
+      "remark": ""
+    },
+    "5060080 Other Expenses : Battery Picker Expense": {
+      "remark": ""
+    },
+    "5060081 Other Expenses : Calling Support Expenses": {
+      "remark": ""
+    },
+    "5060084 Other Expenses : IOT Device Expense": {
+      "remark": ""
+    },
+    "5060085 Other Expenses : Event Mgt.Expenses": {
+      "remark": ""
+    },
+    "5060086 Other Expenses : DSK Expense": {
+      "remark": ""
+    },
+    "5060090 Other Expenses : Partner Income Protection Expense": {
+      "remark": ""
+    },
+    "5060091 Other Expenses : Diesel generator expenses": {
+      "remark": ""
+    },
+    "5060094 Other Expenses : Survey charges": {
+      "remark": ""
+    }
+  },
+  "month": "April'25",
+  "remarks": {
+    "5030001 Battery swapping and support costs : Swap Charges Partner Cost": {
+      "remark": "Vivek"
+    },
+    "5060001 Other Expenses : Gps Tracking Subscription": {
+      "remark": ""
+    },
+    "5060082 Other Expenses : Electrical Appliance": {
+      "remark": ""
+    },
+    "5060083 Other Expenses : Wiring Harness": {
+      "remark": ""
+    },
+    "5010101 Employee benefit expense : Salaries, bonus and other allowances : USP-Leaves": {
+      "remark": ""
+    },
+    "5010102 Employee benefit expense : Salaries, bonus and other allowances : Car Hire": {
+      "remark": ""
+    },
+    "5010103 Employee benefit expense : Salaries, bonus and other allowances : USP- Performance Inentive": {
+      "remark": ""
+    },
+    "5010104 Employee benefit expense : Salaries, bonus and other allowances : USP - Salary": {
+      "remark": ""
+    },
+    "5010105 Employee benefit expense : Salaries, bonus and other allowances : Employee Sodexo Benefit": {
+      "remark": ""
+    },
+    "5010106 Employee benefit expense : Salaries, bonus and other allowances : USP Salary-Gratuity": {
+      "remark": ""
+    },
+    "5010107 Employee benefit expense : Salaries, bonus and other allowances : Staff welfare expense": {
+      "remark": ""
+    },
+    "5010201 Employee benefit expense : Contribution to provident and other funds : Employee NPS": {
+      "remark": ""
+    },
+    "5010202 Employee benefit expense : Contribution to provident and other funds : EPF Employer": {
+      "remark": ""
+    },
+    "5010203 Employee benefit expense : Contribution to provident and other funds : LWF": {
+      "remark": ""
+    },
+    "5010401 Employee benefit expense : Share based payment expense : ESOP Cost": {
+      "remark": ""
+    },
+    "5030002 Battery swapping and support costs : Partner Reimbursement": {
+      "remark": ""
+    },
+    "5040001 Finance Costs : Bank Charges": {
+      "remark": ""
+    },
+    "5040009 Finance Costs : Ind AS - Interest Cost": {
+      "remark": ""
+    },
+    "5050001 Depreciation and Amortisation : Depreciation on PPE": {
+      "remark": ""
+    },
+    "5050002 Depreciation and Amortisation : Amortisation on Intangibles": {
+      "remark": ""
+    },
+    "5060002 Other Expenses : Hardware Device & Cloud Software Subscription": {
+      "remark": ""
+    },
+    "5060007 Other Expenses : Manpower Supply Expenses": {
+      "remark": ""
+    },
+    "5060008 Other Expenses : Referral Fees- Driver's": {
+      "remark": ""
+    },
+    "5060009 Other Expenses : Referral Fees-Partner": {
+      "remark": ""
+    },
+    "5060012 Other Expenses : Business Promotion Expens": {
+      "remark": ""
+    },
+    "5060013 Other Expenses : Marketing Expenses": {
+      "remark": ""
+    },
+    "5060014 Other Expenses : Staff Welfare - Marketing Campaign": {
+      "remark": ""
+    },
+    "5060015 Other Expenses : Rent": {
+      "remark": ""
+    },
+    "5060016 Other Expenses : Rent (A.C)": {
+      "remark": ""
+    },
+    "5060017 Other Expenses : Rent (CCD Machine)": {
+      "remark": ""
+    },
+    "5060021 Other Expenses : Rent (Head Office)": {
+      "remark": ""
+    },
+    "5060024 Other Expenses : Rent (Printer)": {
+      "remark": ""
+    },
+    "5060025 Other Expenses : Audit Fees": {
+      "remark": ""
+    },
+    "5060027 Other Expenses : Commission Expense": {
+      "remark": ""
+    },
+    "5060028 Other Expenses : Conveyance Expense": {
+      "remark": ""
+    },
+    "5060029 Other Expenses : Courier Expense": {
+      "remark": ""
+    },
+    "5060031 Other Expenses : Festival Expenses": {
+      "remark": ""
+    },
+    "5060032 Other Expenses : Domain Expense": {
+      "remark": ""
+    },
+    "5060033 Other Expenses : Electricity Expense ( Indirect Cost )": {
+      "remark": ""
+    },
+    "5060035 Other Expenses : Fire Extinguisher": {
+      "remark": ""
+    },
+    "5060036 Other Expenses : Freight Expense": {
+      "remark": ""
+    },
+    "5060037 Other Expenses : Google Cloud": {
+      "remark": ""
+    },
+    "5060038 Other Expenses : Ground Management Charges": {
+      "remark": ""
+    },
+    "5060041 Other Expenses : Hotel Expense": {
+      "remark": ""
+    },
+    "5060042 Other Expenses : Housekeeping Expense": {
+      "remark": ""
+    },
+    "5060043 Other Expenses : Insurance Expense": {
+      "remark": ""
+    },
+    "5060044 Other Expenses : Internet Exps ( Indirect )": {
+      "remark": ""
+    },
+    "5060045 Other Expenses : Leased Battery-Reinstated": {
+      "remark": ""
+    },
+    "5060046 Other Expenses : Legal Expense": {
+      "remark": ""
+    },
+    "5060047 Other Expenses : Location Maintanance Service Fee": {
+      "remark": ""
+    },
+    "5060048 Other Expenses : Gain & Loss on FA": {
+      "remark": ""
+    },
+    "5060052 Other Expenses : Office Expense": {
+      "remark": ""
+    },
+    "5060053 Other Expenses : Partner Recovery-Provision": {
+      "remark": ""
+    },
+    "5060054 Other Expenses : Printing & Stationary Expense": {
+      "remark": ""
+    },
+    "5060055 Other Expenses : Professional Fees": {
+      "remark": ""
+    },
+    "5060058 Other Expenses : Recruitment Expense": {
+      "remark": ""
+    },
+    "5060059 Other Expenses : Repair & Maintenance Expense (Office)": {
+      "remark": ""
+    },
+    "5060060 Other Expenses : Repair/Upgradation Charges-Charger": {
+      "remark": ""
+    },
+    "5060064 Other Expenses : Software Subscription": {
+      "remark": ""
+    },
+    "5060065 Other Expenses : Stamp Duty": {
+      "remark": ""
+    },
+    "5060066 Other Expenses : Stamp Paper Expenses": {
+      "remark": ""
+    },
+    "5060067 Other Expenses : Telephone & Communication Expenses": {
+      "remark": ""
+    },
+    "5060068 Other Expenses : Testing Expense": {
+      "remark": ""
+    },
+    "5060069 Other Expenses : Tour and traveling": {
+      "remark": ""
+    },
+    "5060070 Other Expenses : Transportation Expense": {
+      "remark": ""
+    },
+    "5060071 Other Expenses : Water Expesne": {
+      "remark": ""
+    },
+    "5060072 Other Expenses : Write Off": {
+      "remark": ""
+    },
+    "5060074 Other Expenses : Repair and maintenance - batteries": {
+      "remark": ""
+    },
+    "5060078 Other Expenses : Incentives [Points-Driver]": {
+      "remark": ""
+    },
+    "5060079 Other Expenses : Incentives [Points-Partner]": {
+      "remark": ""
+    },
+    "5060080 Other Expenses : Battery Picker Expense": {
+      "remark": ""
+    },
+    "5060081 Other Expenses : Calling Support Expenses": {
+      "remark": ""
+    },
+    "5060084 Other Expenses : IOT Device Expense": {
+      "remark": ""
+    },
+    "5060085 Other Expenses : Event Mgt.Expenses": {
+      "remark": ""
+    },
+    "5060086 Other Expenses : DSK Expense": {
+      "remark": ""
+    },
+    "5060090 Other Expenses : Partner Income Protection Expense": {
+      "remark": ""
+    },
+    "5060091 Other Expenses : Diesel generator expenses": {
+      "remark": ""
+    },
+    "5060094 Other Expenses : Survey charges": {
+      "remark": ""
+    }
+  }
+}

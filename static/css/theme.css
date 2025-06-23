@@ -1,0 +1,54 @@
+/* theme.css */
+
+:root {
+  --main-gradient: linear-gradient(to right, #8e2de2, #f64f59);
+  --main-purple: #8e2de2;
+  --main-red: #f64f59;
+  --text-light: #ffffff;
+  --text-dark: #333333;
+}
+
+/* NAVBAR */
+.navbar-theme {
+  background: var(--main-gradient);
+  color: var(--text-light);
+}
+.navbar-theme .navbar-brand,
+.navbar-theme .nav-link,
+.navbar-theme .btn-outline-light {
+  color: var(--text-light) !important;
+}
+
+/* BUTTONS */
+.btn-theme {
+  background: var(--main-gradient);
+  color: var(--text-light);
+  border: none;
+}
+.btn-theme:hover {
+  opacity: 0.9;
+}
+
+/* CARDS */
+.card-theme {
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+}
+.card-theme-header {
+  background: var(--main-gradient);
+  color: var(--text-light);
+  font-weight: 600;
+  padding: 10px 16px;
+  border-bottom: none;
+}
+
+/* TEXT */
+.text-theme {
+  color: var(--main-purple);
+}
+
+/* UTILITIES */
+.bg-theme-gradient {
+  background: var(--main-gradient);
+  color: var(--text-light);
+}
