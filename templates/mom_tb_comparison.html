@@ -178,7 +178,7 @@
       .then(async res => {
         if (!res.ok) {
           throw new Error(`Failed to fetch data: ${res.status}`);
-        }
+        })
         return res.json();
       .then(data => {
         const head = document.getElementById("tableHead");
@@ -187,7 +187,7 @@
         if (!data.months || !data.rows) {
           body.innerHTML = `<tr><td colspan="100%">No data available</td></tr>`;
           return;
-        }
+        })
 
         const headerRow = document.createElement("tr");
         headerRow.innerHTML = `
