@@ -228,11 +228,11 @@
             });
           });
       });
-      .catch(err => {
-        console.error("API error:", err);
-        const body = document.getElementById("tableBody");
-        body.innerHTML = `<tr><td colspan="100%" style="color:red;">Error loading data. Please try again later.</td></tr>`;
-      });
+        .catch(err => {
+          console.error("API error:", err);
+          const body = document.getElementById("tableBody");
+          body.innerHTML = `<tr><td colspan="100%" style="color:red;">Error loading data. Please try again later.</td></tr>`;
+        });
 
     function saveRemarks() {
       const headers = Array.from(document.querySelectorAll("#tableHead th"));
