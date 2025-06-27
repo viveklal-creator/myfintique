@@ -178,7 +178,7 @@
       .then(async res => {
         if (!res.ok) {
           throw new Error(`Failed to fetch data: ${res.status}`);
-        })
+        }
         return res.json();
       .then(data => {
         const head = document.getElementById("tableHead");
