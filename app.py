@@ -341,5 +341,9 @@ def export_mom_tb_excel():
         mimetype="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     )
 
+print("==> Entered /api/mom_tb_comparison")
+print("Files in TB_UPLOAD_FOLDER:", os.listdir(TB_UPLOAD_FOLDER))
+
+
 if __name__ == "__main__":
     app.run(debug=True, use_reloader=False)

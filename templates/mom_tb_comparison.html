@@ -175,10 +175,19 @@
     };
 
     fetch("/api/mom_tb_comparison")
-      .then(res => res.json())
+      .then(async res => {
+        if (!res.ok) {
+          throw new Error(`Failed to fetch data: ${res.status}`);
+        }
+        return res.json();
       .then(data => {
         const head = document.getElementById("tableHead");
         const body = document.getElementById("tableBody");
+        
+        if (!data.months || !data.rows) {
+          body.innerHTML = `<tr><td colspan="100%">No data available</td></tr>`;
+          return;
+        }
 
         const headerRow = document.createElement("tr");
         headerRow.innerHTML = `
@@ -217,6 +226,11 @@
               body.appendChild(tr);
             });
           });
+      });
+      .catch(err => {
+        console.error("API error:", err);
+        const body = document.getElementById("tableBody");
+        body.innerHTML = `<tr><td colspan="100%" style="color:red;">Error loading data. Please try again later.</td></tr>`;
       });
 
     function saveRemarks() {
