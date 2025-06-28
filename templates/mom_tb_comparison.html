@@ -175,32 +175,22 @@
     };
 
     fetch("/api/mom_tb_comparison")
-        .then(res => {
-          if (!res.ok) {
-            throw new Error(`Failed to fetch data: ${res.status}`);
-          }
-          return res.json();
-        })
-        .then(data => {
-          const head = document.getElementById("tableHead");
-          const body = document.getElementById("tableBody");
+      .then(res => res.json())
+      .then(data => {
+        const head = document.getElementById("tableHead");
+        const body = document.getElementById("tableBody");
 
-          if (!data.months || !data.rows) {
-            body.innerHTML = `<tr><td colspan="100%">No data available</td></tr>`;
-            return;
-          }
-
-          const headerRow = document.createElement("tr");
-          headerRow.innerHTML = `
-            <th class="sticky-type">Type</th>
-            <th class="sticky-gl">GL</th>
-            ${data.months.map(m => `<th>${m}</th>`).join('')}
-            <th>Variance</th>
-            <th>Variance %</th>
-            <th class="remarks">Remarks</th>
-            <th class="manager-remarks">Manager Remarks</th>
-          `;
-          head.appendChild(headerRow);
+        const headerRow = document.createElement("tr");
+        headerRow.innerHTML = `
+          <th class="sticky-type">Type</th>
+ 	  <th class="sticky-gl">GL</th>
+ 	  ${data.months.map(m => `<th>${m}</th>`).join('')}
+ 	  <th>Variance</th>
+ 	  <th>Variance %</th>
+	  <th class="remarks">Remarks</th>
+	  <th class="manager-remarks">Manager Remarks</th>
+        `;
+        head.appendChild(headerRow);
 
         fetch("/api/get_remarks")
           .then(r => r.json())
@@ -215,24 +205,19 @@
               const disableManagerField = userRole !== 'manager';
 
               const tr = document.createElement("tr");
-              tr.innerHTML = `
-                <td class="sticky-type">${row.type}</td>
-                <td class="sticky-gl"><a class="gl-link" target="_blank" href="/gl_details?gl=${encodeURIComponent(row.gl)}">${row.gl}</a></td>
-                ${data.months.map(m => `<td>${row.months[m] || '-'}</td>`).join('')}
-                <td>${row.variance}</td>
-                <td>${row.variance_pct}</td>
-                <td class="remarks"><textarea rows="2" ${disableUserField ? 'readonly title="You need permission to change this field"' : ''}>${remarkObj.remark || ""}</textarea></td>
-                <td class="manager-remarks"><textarea rows="2" ${disableManagerField ? 'readonly title="You need permission to change this field"' : ''}>${remarkObj.manager_remark || ""}</textarea></td>
-              `;
+             tr.innerHTML = `
+  	       <td class="sticky-type">${row.type}</td>
+  	       <td class="sticky-gl"><a class="gl-link" target="_blank" href="/gl_details?gl=${encodeURIComponent(row.gl)}">${row.gl}</a></td>
+  	       ${data.months.map(m => `<td>${row.months[m] || '-'}</td>`).join('')}
+  	       <td>${row.variance}</td>
+ 	       <td>${row.variance_pct}</td>
+ 	       <td class="remarks"><textarea rows="2" ${disableUserField ? 'readonly title="You need permission to change this field"' : ''}>${remarkObj.remark || ""}</textarea></td>
+  	       <td class="manager-remarks"><textarea rows="2" ${disableManagerField ? 'readonly title="You need permission to change this field"' : ''}>${remarkObj.manager_remark || ""}</textarea></td>
+	     `;
               body.appendChild(tr);
             });
           });
       });
-        .catch(err => {
-          console.error("API error:", err);
-          const body = document.getElementById("tableBody");
-          body.innerHTML = `<tr><td colspan="100%" style="color:red;">Error loading data. Please try again later.</td></tr>`;
-        });
 
     function saveRemarks() {
       const headers = Array.from(document.querySelectorAll("#tableHead th"));

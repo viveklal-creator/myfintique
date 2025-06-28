@@ -4,6 +4,13 @@ import pandas as pd
 from io import BytesIO
 from flask import send_file
 import xlsxwriter
+from datetime import datetime
+
+# Example list (probably from your Excel or DB)
+months = ["June'25", "April'25", "May'25"]
+
+# Sort using datetime.strptime with the format "%B'%y"
+months_sorted = sorted(months, key=lambda m: datetime.strptime(m, "%B'%y"))
 
 app = Flask(__name__)
 app.secret_key = "your_secret_key"
@@ -126,7 +133,7 @@ def api_mom_tb_comparison():
             continue
 
         for _, row in df.iterrows():
-            etype = row["Expense Type"].strip()
+            etype = str(row.get("Expense Type", "")).strip()
             gl = row["GL Name"].strip()
             amount_str = str(row["Amount"]).replace(",", "").strip()
             if amount_str.startswith("(") and amount_str.endswith(")"):
@@ -303,7 +310,21 @@ def gl_details():
         except (ValueError, TypeError):
             totals[m] = "0"
 
-    return render_template("gl_details.html", gl_name=gl_name, rows=result, months=sorted(set(months)), totals=totals)
+    def sort_month_labels(months_list):
+        try:
+            return sorted(
+                months_list,
+                key=lambda m: datetime.strptime(m, "%B'%y")
+            )
+        except Exception:
+            return sorted(months_list)
+    return render_template(
+        "gl_details.html",
+        gl_name=gl_name,
+        rows=result,
+        months=sort_month_labels(set(months)),
+        totals=totals
+    )
 
 @app.route("/export_mom_tb_excel")
 def export_mom_tb_excel():
